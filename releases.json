@@ -1,1 +1,13 @@
-{ "releases": [] }
+{
+  "releases": [
+    {
+      "version": "0.5.1",
+      "code": 501,
+      "date": "2026-11-22",
+      "notes": ["Test release: checks that updates download, match their fingerprint and install."],
+      "url": "https://github.com/jessedtan-dev/treasury-releases/releases/download/v0.5.1/treasury-0.5.1.apk",
+      "sha256": "b33a37efbbba2cc09381bcbdb82a82bd1894672a902b24c11e70679a70bc93ee",
+      "bytes": 12186948
+    }
+  ]
+}
