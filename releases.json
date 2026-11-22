@@ -1,1 +1,17 @@
-{ "releases": [] }
+{
+  "releases": [
+    {
+      "version": "1.0.0",
+      "code": 10000,
+      "date": "2026-11-22",
+      "notes": [
+        "First release of Treasury for Android",
+        "Your records stay only on your phone, encrypted",
+        "Quick entry from the home-screen widget"
+      ],
+      "url": "https://github.com/jessedtan-dev/treasury-releases/releases/download/v1.0.0/treasury-1.0.0.apk",
+      "sha256": "5c1580269824d8cdf2927bbb0bf2cf190259e0798f8b59df1e831a88da26fce1",
+      "bytes": 10383554
+    }
+  ]
+}
