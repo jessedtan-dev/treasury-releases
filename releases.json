@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "1.0.1",
+      "code": 10001,
+      "date": "2026-11-23",
+      "notes": [
+        "Your own icon on the home screen: Settings → Personalise → Home-screen icon → Add to home screen places a Treasury shortcut with your letters or picture, and it follows later changes.",
+        "What's new after an update: a notice the first time you unlock, and Settings → App version lists this version's changes and earlier ones, even offline.",
+        "\"Don't ask again\" on a page tour now stops all page-tour offers; Help → Offer page tours again brings them back.",
+        "Fixed: the icon preview in Personalise was blank on the phone."
+      ],
+      "url": "https://github.com/jessedtan-dev/treasury-releases/releases/download/v1.0.1/treasury-1.0.1.apk",
+      "sha256": "5d99b5c88ed9cdbd3c76294b99b007c9f8ab899dd1bff446d370d55e7a798de3",
+      "bytes": 10384110
+    },
+    {
       "version": "1.0.0",
       "code": 10000,
       "date": "2026-11-22",
