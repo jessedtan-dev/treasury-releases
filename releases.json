@@ -1,6 +1,23 @@
 {
   "releases": [
     {
+      "version": "1.2.0",
+      "code": 10200,
+      "date": "2026-11-25",
+      "notes": [
+        "A friendly welcome for new trackers: name, look, tabs, currencies and features, then your first account and entry. Coming back? Restore a backup or JSON export right there (Help → Guided setup opens it again).",
+        "Your look: a Pastel theme, the Montserrat font, and My own colours for every part of the app (with a warning and Fix it when something's hard to read). The widget can take your card shape too (Settings → Quick entry).",
+        "Batch presets: save a batch of rows under a name and load them all back.",
+        "Quick entries that need more details now wait in Drafts, and with names on, the quick form has every field.",
+        "Budgets by account on the Overview, and ⇅ to rearrange the Overview's sections.",
+        "Tours go deeper (inside an account, goal, debt or investment), Help always opens them, and spending shows in red everywhere.",
+        "Fixed: the guided setup highlighted the wrong buttons; a leftover \"Buckets\" label; the Tutorial picker vanishing."
+      ],
+      "url": "https://github.com/jessedtan-dev/treasury-releases/releases/download/v1.2.0/treasury-1.2.0.apk",
+      "sha256": "a7b6061cb1218045fd74f0f7baec3ed749d11e35f4c8e354d238b5a8ecf5cc70",
+      "bytes": 10571458
+    },
+    {
       "version": "1.1.0",
       "code": 10100,
       "date": "2026-11-24",
