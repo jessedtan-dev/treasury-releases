@@ -1,6 +1,22 @@
 {
   "releases": [
     {
+      "version": "1.1.0",
+      "code": 10100,
+      "date": "2026-11-24",
+      "notes": [
+        "Buckets are now Budgets, and every account has an Unallocated budget for money you haven't given a job yet. Split less than all of it and the rest waits there.",
+        "A guided setup for your first account and entry, plus friendlier tours and Help.",
+        "Less scrolling: lists and boxes start folded (choose what starts open in Tracker Elements → Layout), add boxes sit above their lists, pin accounts to the top, pick the Overview's sections and accounts, and a Smaller size or a ☰ menu fit more on screen.",
+        "Presets: update the one you used, fill batch rows from one, delete them even after use. Save an unfinished entry as a draft.",
+        "Transfers show what's available in the budget you're moving from, and can't take more.",
+        "Fixed: the quick-entry form now reopens after you press Back; odd codes no longer show instead of quote marks; backups move between the web and phone apps both ways."
+      ],
+      "url": "https://github.com/jessedtan-dev/treasury-releases/releases/download/v1.1.0/treasury-1.1.0.apk",
+      "sha256": "7fd2e9d7a74704fe2c636b7c02ffdf4514b1ce3e32ebaf8463677399d648e324",
+      "bytes": 10402078
+    },
+    {
       "version": "1.0.1",
       "code": 10001,
       "date": "2026-11-23",
